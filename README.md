@@ -5,9 +5,9 @@ Raspberry pi wifi configuration without monitor
 
 Here is the solution. 
 
-# What you need :
+# Here's everything you'll need to complete this :
 ```bash
-1. Here's everything you'll need to complete this : Raspberry Pi	
+1.  Raspberry Pi	
 ```
 ## Step 1: Put the Raspbian SD card into your computer.
 ## Step 2: Navigate to the boot directory.
@@ -61,8 +61,8 @@ The wpa_supplicant.conf file should disappear from the SD card's boot directory 
 
 If your Pi hasn't connected to Wi-Fi, try these wpa_supplicant troubleshooting tips:
 
-1.Double-check that the file was written in plaintext, without any special characters.
-2.Double-check that the file has disappeared from your boot directory.
-3.Connect the Pi to a TV or monitor via HDMI to ensure it is booting normally.
-4.If you're using a Raspberry Pi Zero W, make sure you're attempting to connect to a 2.4GHz network (the Zero doesn't support 5G).
-5.If you're using a Raspberry Pi Zero, make sure it's a Raspberry Pi Zero W, not a regular Zero (only the W supports Wi-Fi and Bluetooth).
+1. Double-check that the file was written in plaintext, without any special characters.
+2. Double-check that the file has disappeared from your boot directory.
+3. Connect the Pi to a TV or monitor via HDMI to ensure it is booting normally.
+4. If you're using a Raspberry Pi Zero W, make sure you're attempting to connect to a 2.4GHz network (the Zero doesn't support 5G).
+5. If you're using a Raspberry Pi Zero, make sure it's a Raspberry Pi Zero W, not a regular Zero (only the W supports Wi-Fi and Bluetooth).
