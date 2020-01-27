@@ -1,9 +1,6 @@
-# Raspberry-pi-wifi-configuration-without-monitor
-Raspberry pi wifi configuration without monitor
-
 # How to Set up WiFi on Your Raspberry Pi without Monitor ?
 
-Here is the solution. 
+You're reading this means you don't have any extra pairs of keyboard and mouse handy to configure your new Raspberry pi. Don't worry you can do wifi configuration without monitor,keyboard or mouse. Here is the solution. 
 
 # Here's everything you'll need to complete this :
 ```bash
